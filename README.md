@@ -1,2 +1,2 @@
 # flink-grafna
-the flink in the grafana
+The metrics used to monitor Flink on Grafana. Flink runs in Application mode.
